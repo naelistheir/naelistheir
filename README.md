@@ -3,6 +3,11 @@
 💻 **Full-Stack Developer** | 🌍 **Based in Depok**  
 🎨 **Design Enthusiast** | ☕ **Coffee Lover**  
 
+▸ 🧠 Learning: **JavaScript && C++**  
+▸ 🛠️ Building: [**AI-powered resume analyzer**](https://github.com/iLyxx-Website)  
+▸ 📚 Reading: _"Clean Code"_ by iLyxx Dev  
+▸ 🎯 2024 Goal: **Contribute to 10+ open-source projects**  
+
 [![Website](https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
