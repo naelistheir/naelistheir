@@ -20,16 +20,6 @@
 
 ---
 
-### 🎮 Tech Stack
-```python
-anime_skills = {
-  "Languages": ["Python", "JavaScript", "HTML/CSS"],
-  "Frameworks": ["React", "Node.js", "TensorFlow"],
-  "Tools": ["Photoshop", "Clip Studio Paint", "Blender"],
-  "Databases": ["MongoDB", "PostgreSQL"],
-  "Specialty": ["Waifu/Husbando Classification Algorithms"]
-}
-
 <div align="center">
   <img src="https://i.imgur.com/ghibliforest.gif" width="500px">
   
