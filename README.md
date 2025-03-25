@@ -1,7 +1,7 @@
-# こんにちは! Kon'nichiwa! 👋
-
 <div align="center">
-  <img src="https://i.imgur.com/xyz1234.gif" width="400px" alt="Anime Banner">
+  <img src="https://media.tenor.com/3HhGieE4_OsAAAAC/anya-spy-x-family.gif" width="200px">
+  <h3>Hello World! 👋</h3>
+</div>
   
   [![Anime Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   
